@@ -1,5 +1,5 @@
 To move, use WASD.
 Aim with mouse, mouse1 to shoot and R to reload.
 Beat the boss and open a new room!
-![Preview](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/caydn/Pictures/AstroAdventure.png?version%3D1652831497539)
-![Preview2](..%5C..%5CPictures%5CAstroAdventure2.png)
+![AstroAdventure](https://user-images.githubusercontent.com/53490545/168930802-3dc16bf2-530d-4e18-b0ac-de0e97421854.png)
+![AstroAdventure2](https://user-images.githubusercontent.com/53490545/168930807-5246ed5f-5592-4acb-92b8-f10ea92147b3.png)
