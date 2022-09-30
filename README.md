@@ -1,4 +1,3 @@
-New features to be added as free time is alloted over the summer
 - To move, use WASD.
 - Aim with mouse, mouse1 to shoot and R to reload.
 - Beat the boss and open a new room!
